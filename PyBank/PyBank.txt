@@ -1,1 +1,4 @@
-2
+----------------------
+Total Months: 86
+Total: 37514694
+Average Change: -196785
